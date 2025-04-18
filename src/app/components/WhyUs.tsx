@@ -34,7 +34,7 @@ const features = [
 
 export const WhyUs = () => {
   return (
-    <section className="py-24 bg-gradient-to-b from-white to-gray-50/50 relative overflow-hidden">
+    <section id='why-us' className="py-24 bg-gradient-to-b from-white to-gray-50/50 relative overflow-hidden">
       {/* Background Pattern */}
       <div 
         className="absolute inset-0 bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_bottom,#8080800a_1px,transparent_1px)] bg-[size:14px_24px]"

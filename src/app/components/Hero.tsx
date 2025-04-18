@@ -5,12 +5,12 @@ import { GradientText } from "./GradientText";
 export const Hero = () => {
   return (
     <section className="py-12 lg:py-24 h-[calc(100vh-70px)] relative">
-      <div className="max-w-5xl mx-auto h-full flex flex-col items-center justify-center gap-12 text-center px-6">
-        <h1 className="text-2xl lg:text-6xl font-semibold lg:text-bold text-center leading-snug">
+      <div className="max-w-5xl mx-auto h-full flex flex-col items-center justify-center gap-6 lg:gap-12 text-center px-6">
+        <h1 className="text-xl lg:text-6xl font-semibold lg:text-bold text-center leading-snug">
           <GradientText>Transforming Businesses</GradientText> for <br /> the
           Digital Age
         </h1>
-        <p className="max-w-sm lg:max-w-3xl mx-auto leading-relaxed text-gray-600 text-base lg:text-lg">
+        <p className="max-w-sm text-sm lg:max-w-3xl mx-auto leading-relaxed text-gray-600 lg:text-lg">
           In today’s fast-paced digital landscape, organizations must evolve to
           stay competitive. At AiClues, we specialize in empowering businesses
           through comprehensive digital transformation services. Our mission is

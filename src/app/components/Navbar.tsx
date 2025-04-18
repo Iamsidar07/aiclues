@@ -58,7 +58,7 @@ export default function Navbar() {
       {/* CTA Button */}
       <Link 
         href="#contact"
-        className="bg-blue-700 text-white group px-8 py-2.5 flex items-center gap-2 rounded-full hover:bg-blue-800 transition-colors duration-200"
+        className="bg-blue-700 text-white group px-4 text-sm lg:text-base py-1.5 lg:px-8 lg:py-2.5 flex items-center gap-2 rounded-full hover:bg-blue-800 transition-colors duration-200"
         aria-label="Talk to us"
       >
         Talk to Us

@@ -3,7 +3,7 @@ import { ArrowRight } from 'lucide-react';
 
 export const CallToAction = () => {
   return (
-    <section className="py-24 px-4">
+    <section id='contact' className="py-24 px-4">
       <div className="max-w-6xl mx-auto">
         <div className="relative bg-gradient-to-b from-[#f6f9fc] to-blue-50/50 rounded-3xl overflow-hidden">
           {/* Background Pattern */}

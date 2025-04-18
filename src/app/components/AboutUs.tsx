@@ -4,7 +4,7 @@ import { ArrowRight } from 'lucide-react';
 
 export const AboutUs = () => {
   return (
-    <section className="relative py-24 overflow-hidden">
+    <section id='about' className="relative py-24 overflow-hidden">
       {/* Gradient Background */}
       <div className="absolute inset-0 bg-gradient-to-b from-white via-blue-50/20 to-white" />
       
