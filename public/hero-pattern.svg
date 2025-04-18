@@ -1,0 +1,20 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Network dots and lines -->
+  <g opacity="0.1">
+    <circle cx="200" cy="200" r="4" fill="#377dff"/>
+    <circle cx="400" cy="300" r="4" fill="#377dff"/>
+    <circle cx="600" cy="150" r="4" fill="#377dff"/>
+    <line x1="200" y1="200" x2="400" y2="300" stroke="#377dff" stroke-width="1"/>
+    <line x1="400" y1="300" x2="600" y2="150" stroke="#377dff" stroke-width="1"/>
+  </g>
+  
+  <!-- Abstract shapes representing business growth -->
+  <path d="M1200 500 L1300 400 L1400 500 Z" fill="#4ade80" opacity="0.05"/>
+  <path d="M1100 600 L1200 500 L1300 600 Z" fill="#377dff" opacity="0.05"/>
+  
+  <!-- Subtle grid pattern -->
+  <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#377dff" stroke-width="0.5" opacity="0.05"/>
+  </pattern>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+</svg>
