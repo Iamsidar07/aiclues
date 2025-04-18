@@ -1,8 +1,6 @@
 import { ArrowRightIcon } from "lucide-react";
-import { Button } from "./ui/Button";
 import Link from "next/link";
 import { GradientText } from "./GradientText";
-import Image from "next/image";
 
 export const Hero = () => {
   return (

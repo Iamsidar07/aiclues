@@ -62,7 +62,7 @@ export const WhyUs = () => {
                 </span>
               </h2>
               <p className="text-gray-600 leading-relaxed">
-                Choose us to leverage expertise and innovation for your business's transformative journey towards success.
+                Choose us to leverage expertise and innovation for your business&apos;s transformative journey towards success.
               </p>
             </div>
 

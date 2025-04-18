@@ -42,7 +42,7 @@ export const WhatWeOffer = () => {
           </h2>
           <p className="text-gray-600 leading-relaxed">
             We examine all catalysts of transformation – starting from the basics, and
-            we'll inspire and assist you in making the desired transition.
+            we&apos;ll inspire and assist you in making the desired transition.
           </p>
         </div>
 
