@@ -27,7 +27,7 @@ export const CallToAction = () => {
             </div>
             
             <Link
-              href="/contact"
+              href="mailto:support@aiclues.com"
               className="group relative inline-flex items-center justify-center px-6 py-3 rounded-full
                 bg-blue-600 text-white font-medium 
                 transition-all duration-300
