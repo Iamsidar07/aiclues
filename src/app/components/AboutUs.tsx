@@ -84,7 +84,7 @@ export const AboutUs = () => {
 
             <div className="pt-8">
               <Link 
-                href="/about"
+                href="#about"
                 className="group inline-flex items-center gap-2 px-6 py-3 bg-blue-50 hover:bg-blue-100 text-blue-600 font-medium rounded-full transition-all duration-300"
               >
                 Read our full story
